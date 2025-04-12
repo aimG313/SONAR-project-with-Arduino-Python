@@ -1,9 +1,0 @@
-{
-  "additionalFiles": "..\\..\\..,..\\..\\..,..\\..\\..,..\\..\\..",
-  "compiler.optimization_flags": "",
-  "customBuildProperties": "build.warn_data_percentage=75",
-  "fqbn": "arduino:avr:uno",
-  "hardwareFolders": "C:\\Users\\ashra\\AppData\\Local\\Arduino15\\packages",
-  "otherLibrariesFolders": "C:\\Users\\ashra\\Documents\\Arduino\\libraries",
-  "sketchLocation": "D:\\Desktop\\Paul Mac Whorter\\Arduino with Visual Python\\radar"
-}
