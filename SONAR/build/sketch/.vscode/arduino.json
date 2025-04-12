@@ -1,0 +1,18 @@
+#line 1 "D:\\Desktop\\Paul Mac Whorter\\Arduino with Visual Python\\radar\\.vscode\\arduino.json"
+{
+  "port": "COM3",
+  "configuration": "",
+  "output": "build",
+  "board": "arduino:avr:uno",
+  "programmer": "Arduino as ISP",
+  "useProgrammer": false,
+  "configurationRequired": false,
+  "monitorPortSettings": {
+    "port": "COM3",
+    "baudRate": 9600,
+    "lineEnding": "\r\n",
+    "dataBits": 8,
+    "parity": "none",
+    "stopBits": "one"
+  }
+}
